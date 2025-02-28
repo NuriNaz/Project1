@@ -1,0 +1,103 @@
+.footer, .header{
+    height:150px
+}
+.item4, .item5,.first{
+    height: 1200px;
+}
+.item6 {
+    height: 600px;
+}
+.banner{
+    height: 350px;
+    border-color: red;
+}
+.item1, .item2, .item3 {
+    height: 787px;
+}
+.bold{
+    color: #15223F;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0;
+}
+.databyid{
+    height: 736px;
+}
+.item7{
+    height: 839px;
+}
+.dimmenssions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.editted{
+    height: 768px !important;
+    border-color: red;
+}
+
+.indesign {
+    width: 485px;
+    margin-top: 10px;
+    height: 62px;
+    border-color: red;
+}
+.qr{
+    position: relative;
+
+}
+.scanner {
+    border: 2px solid black;
+    height: 51px;
+    text-align: center;
+    width: 51px;
+    position: absolute;
+    bottom: 60px;
+    right: 11px;
+    line-height: 51px;
+    border-radius: 10px;
+}
+.scan {
+    bottom: 3px;
+}
+.scan1 {
+    bottom: 3px;
+    left: 46%;
+}
+.scans {
+    bottom: 8px;
+}
+.scan5 {
+    left: 9px;
+    top: 33px;
+}
+
+.over {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.itemc6{
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.new{
+height: 1300px;
+}
+
+.foot{
+    height: 90px;
+    margin-top: -98px;
+    width: 652px;
+}
+/* .hiquill{
+    border: 1px solid black;
+} */
+.boldc5{
+    margin: 0 !important;
+}

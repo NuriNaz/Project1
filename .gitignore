@@ -1,0 +1,6 @@
+# Ignore Node.js modules and their dependencies
+node_modules/
+
+# Ignore build and compiled output
+build/
+build.zip

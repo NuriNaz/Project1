@@ -1,0 +1,75 @@
+.headings {
+  color: #15223f;
+  font-size: 16px;
+  text-align: left;
+  border: 1px solid rgba(224, 224, 224, 1);
+}
+.common {
+  border: 1px solid rgba(224, 224, 224, 1);
+}
+span.network-type,
+span.month {
+  margin-left: 15px;
+}
+.allbuttons {
+  display: flex;
+  width: 36%;
+  justify-content: space-between;
+}
+.email {
+  width: 31%;
+}
+.react-tagsinput-tag {
+  background-color: #15223f;
+  color: #fff;
+  border: #15223f;
+  padding: 8px 10px;
+  border-radius: 10px;
+  /* Add other styles as needed */
+}
+
+.react-tagsinput {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 6px 8px;
+}
+/* .components {
+  width: 40%;
+} */
+
+.components {
+  width: max-content;
+  column-gap: 30px !important;
+}
+.common:last-child {
+  width: 90%;
+}
+.approved,
+.disapproved {
+  position: absolute;
+  right: -1px;
+  top: -11%;
+}
+
+.approved p,
+.disapproved p {
+  background: #215917;
+  color: #fff;
+  padding: 0 14px;
+  border-bottom-left-radius: 10px;
+}
+.disapproved p {
+  background: #c01e1e;
+}
+
+td.common {
+  position: relative;
+}
+
+.view-pdf {
+  background: #15223f;
+  color: #fff;
+  padding: 5px 25px;
+  text-decoration: none;
+  border-radius: 4px;
+}

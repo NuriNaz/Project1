@@ -1,0 +1,261 @@
+.footer, .header{
+    height:150px
+}
+.item4, .item5,.first{
+    height: 1200px;
+}
+
+.banner{
+    height: 350px;
+    /* border-color: red; */
+}
+.item1, .item2, .item3 {
+    height: 787px;
+}
+.bold{
+    color: #15223F;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0;
+}
+.databyid{
+    height: 736px;
+}
+.item6 {
+    height: 495px;
+}
+.dimmenssions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.editted{
+    height: 768px !important;
+    /* border-color: red; */
+}
+
+.indesign {
+    width: 485px;
+    margin-top: 10px;
+    height: 62px;
+    /* border-color: red; */
+}
+.qr{
+    position: relative;
+
+}
+.scanner {
+    border: 2px solid black;
+    height: 51px;
+    text-align: center;
+    width: 51px;
+    position: absolute;
+    bottom: 60px;
+    right: 11px;
+    line-height: 51px;
+    border-radius: 10px;
+}
+.scan {
+    bottom: 3px;
+}
+.scan1 {
+    bottom: 3px;
+    left: 46%;
+}
+.scans {
+    bottom: 8px;
+}
+.scan5 {
+    left: 9px;
+    top: 33px;
+}
+
+.over {
+    height: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+}
+.itemc6 {
+    height: 988px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.new{
+height: 1300px;
+}
+
+.foot {
+    height: 89px;
+    margin-top: -98px;
+    position: relative;
+    width: 654px;
+}
+/* .hiquill{
+    border: 1px solid black;
+} */
+.boldc5{
+    margin: 0 !important;
+}   
+.first_col {
+    transform: translate(1px, 54px);
+}
+.scanner.scan1.bottom_col {
+    transform: translate(-28px, 0px);
+}
+.scanner.scan5.right_col {
+    transform: translate(2px, 71px);
+}
+.item7 {
+    height: 464px;
+}
+p.sapce_dd {
+    margin: 0px;
+    margin-top: 10px;
+}
+.scanner.foot_col {
+    transform: translate(-112px, 46px);
+    position: absolute;
+    /* left: -14px; */
+    right: 453px;
+}
+.am_1 {
+    height: 1128px;
+    width: 485.5px;
+    border: 1px solid red;
+    z-index: 5;
+    /* position: absolute; */
+    transform: translate(165px, 1286px);
+}
+.am_left {
+    height: 1300px;
+    width: 156.5px;
+    border: 1px solid red;
+    z-index: 5;
+    position: absolute;
+    transform: translate(824px, 158px);
+}
+.scanner.scan1.bottom_col {
+    line-height: 1;
+    height: 53px;
+    display: flex;
+    align-items: center;
+}
+.scanner.scan.DSS {
+    line-height: 1;
+    height: 53px;
+    display: flex;
+    align-items: center;
+}
+.hh{
+    line-height: 1;
+    height: 53px;
+    display: flex;
+    align-items: center;
+}
+.ami{
+    line-height: 1;
+    height: 53px;
+    display: flex;
+    align-items: center;
+}
+.ad{
+    height: 500px;
+}
+.mid_column {
+    border: 2px solid red;
+    padding-left: 0 !important;
+    position: relative;
+    left: 4px;
+    /* top: 5px; */
+    height: 100%;
+    padding: 0 !important;
+    margin-top: 8px;
+}
+.bottom_foot {
+    width: 490px;
+}
+p.qr_size {
+    position: absolute;
+    bottom: 6px;
+    left: 51px;
+}
+p.QR4 {
+    margin-left: 10px;
+}
+p.QR2 {
+    margin-left: 143px;
+}
+p.QR6 {
+    left: 75px;
+    position: absolute;
+    margin-left: 24px;
+    top: 22px;
+}
+p.QR5 {
+    position: absolute;
+    bottom: 10px;
+    right: 66px;
+}
+.Masterhead {
+    text-align: center !important;
+    margin-top: 23px;
+    margin-left: 11px;
+    /* position: relative; */
+}
+.COLUMN_1X {
+    position: absolute;
+    top: 10px;
+}
+p.QR2.qr5 {
+    margin: 0;
+    position: absolute;
+    left: 31%;
+    top: 34%;
+}
+p.QR2.qr6 {
+    /* margin-left: 314px; */
+    position: absolute;
+    margin: 0;
+    position: absolute;
+    top: 34%;
+    right: 14%;
+}
+.columnnC5, .columnC6{
+    border : 2px solid red;
+}
+.columnnC5{
+border-bottom: unset;
+position: relative;
+}
+.columnC6{
+    border-top: unset !important;
+}
+.poll {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+} 
+.upper{
+    height:250px;
+    margin-bottom: 20px;
+}
+.ICYMI{
+    display: flex;
+    gap: 10px;
+    height: 1003px;
+}
+p.sixty {
+    margin-left: 10px;
+    margin-top: 39px;
+}
+.scanner.scan5.right_col.ami.this {
+    transform: translate(2px, -3px);
+}
+.icymi_Cartoon{
+    height: 1254px;
+}
